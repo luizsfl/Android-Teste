@@ -13,7 +13,7 @@ import org.junit.Test
 import org.junit.runner.RunWith
 import org.robolectric.annotation.Config
 
-@Config(sdk = [30]) // https://github.com/robolectric/robolectric/pull/6776 // necessario
+@Config(sdk = [30]) // https://github.com/robolectric/robolectric/pull/6776 // necessario  2
 @RunWith(AndroidJUnit4::class)
 class TasksViewModelTest {
 
